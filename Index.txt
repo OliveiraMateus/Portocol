@@ -1,7 +1,13 @@
+//texto banner
 Está em busca de um parceiro contábil, financeiro ou júridico?
 Conheça nossos serviços e como podemos ajudar você.
+//botão no banner
 VER SERVIÇOS
+//fim banner
+
+
 NOSSOS SERVIÇOS
+
 Contabilidade, Escrita Fiscal e Recursos Humanos
 CONTABILIDADE, ESCRITA FISCAL E RECURSOS HUMANOS
 O sucesso de uma empresa começa na sua constituição (abertura), onde são definidos pontos importantes, a exemplo da definição do objeto social e respectivo enquadramento Fiscal.
@@ -17,6 +23,7 @@ A Porto Cal presta Consultoria e Assessoria às Empresas nas áreas de Administr
 A PORTO CAL ESTÁ DIRECIONADA PARA CONSULTORIA E ASSESSORIA EMPRESARIAL ATUANDO NOS SEGMENTOS CONTÁBIL, TRIBUTÁRIO, ADMINISTRATIVO E FINANCEIRO.
 A empresa nasceu da necessidade que seus sócios sentiram de apresentar ao mercado empresarial um conceito de maior efetividade na prestação de assessoria e consultoria empresariais. Uma prestação focada em resultado, de modo que o empresário possa ter preocupação com a entrega ultimada de sua atividade, com maior tranquilidade, sem atropelos.
 CONTINUE LENDO
+
 CADASTRE-SE
 Deixe seu nome e e-mail, enviaremos os melhores artigos para você
 Informe o seu nome
